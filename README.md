@@ -8,4 +8,4 @@ The dataset contains 35,887 labeled facial images categorized into seven emotion
 This project utilizes a custom implementation of the VGGNet, The variant of VGGnet used is designed to process grayscale images with dimensions (48 x 48 x 1). The network comprises of 4 convolutional stages and 3 fully connected layers. Each of the convolutional stages contains two convolutional blocks and a max pooling layer at the end of each block to reduce spatial dimensions while retaining critical features. The convolution block consists of 3 convolutional layers, with ReLU activation, and a batch normalization layer. The first two fully connected layers are followed by a ReLU activation. The third fully connected layer is for classification.
 
 ## Final expirement results
-Three experiments with different batch sizes and number of epochs were conducted. Experiment 2 with a batch size 32 and 100 epochs showed the best results with an accuracy of 64%.
+Three experiments with different batch sizes and number of epochs were conducted. The experiment with a batch size 32 and 100 epochs showed the best results with an accuracy of 64%.
