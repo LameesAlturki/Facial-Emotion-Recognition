@@ -14,4 +14,4 @@ The experiment with a batch size 32 and 100 epochs showed the best results with 
 
 <img width="804" height="701" alt="image" src="https://github.com/user-attachments/assets/9f0e8ee0-bd05-4fa1-84f5-af5b5ee0837a" />
 
-**Full report:** [CSC462-FER-project/report.pdf](CSC462-FER-project/report.pdf)
+**Full report:** [CSC462-FER-project report.pdf](CSC462-FER-project%20report.pdf)
